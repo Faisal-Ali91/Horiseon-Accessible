@@ -15,4 +15,4 @@ The purpose of this project is to improve the provided code, both HTML and CSS, 
 * Github: https://github.com/Faisal-Ali91/Horiseon-Accessible
 * Deployed: 
 
-![Website Image] 
+![Website Image](./assets/images/01-html-css-git-homework-demo)
