@@ -16,10 +16,3 @@ The purpose of this project is to improve the provided code, both HTML and CSS, 
 * Deployed: 
 
 ![Website Image] 
-
-
-
-
-
-
- 
